@@ -26,4 +26,4 @@ This repository documents my journey to becoming a skilled DevOps engineer. I am
 - Work on a personal project to implement DevOps practices.
 
 ## Contact
-Feel free to reach out to me on [LinkedIn](your_linkedin_profile) or via email at your_email@example.com.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bilal-ahmed44/) 
