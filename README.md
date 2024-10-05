@@ -1,5 +1,3 @@
-# DevOpsJourney
-Documenting my journey to become a DevOps Engineer
 # My DevOps Journey
 ## Documenting My Journey to Become a DevOps Engineer
 
